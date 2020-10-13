@@ -1,0 +1,6 @@
+# vim files
+.vim/
+
+# text editor files
+.idea/
+.vscode/
